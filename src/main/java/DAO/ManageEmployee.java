@@ -177,4 +177,8 @@ public class ManageEmployee {
 		System.out.println(id + ":: Name=" + emp.getName() + ", salary=" + emp.getSalary());
 
 	}
+	public void Testing()
+	{
+		System.out.println("Testing");
+	}
 }
